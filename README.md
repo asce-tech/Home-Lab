@@ -83,3 +83,16 @@ sudo apt install -y build-essential git curl wget
 - Keep logs of tool installation and configurations for repeatability
 - Take snapshots at each phase for rollback or testing
 
+🖼️ Sample Screenshots 
+
+Ubuntu VM IP Configuration: 
+
+![image](https://github.com/user-attachments/assets/81969f8e-f174-4047-b5a2-967cfbac75f4)
+
+
+ ICMP Ping from Kali to Ubuntu: 
+
+![image](https://github.com/user-attachments/assets/9dee0ad2-9a13-4119-9ebc-3812786f9931)
+
+
+
